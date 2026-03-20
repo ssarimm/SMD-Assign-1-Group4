@@ -56,7 +56,7 @@ This app uses a mock REST API:
 
 ## 📸 Screenshots
 
-<img width="150" height="400" alt="image" src="https://github.com/user-attachments/assets/0cd9a869-c22c-4d2f-b25f-b881a648b2d9" />
+<img width="400" height="800" alt="image" src="https://github.com/user-attachments/assets/0cd9a869-c22c-4d2f-b25f-b881a648b2d9" />
 
 <img width="150" height="400" alt="image" src="https://github.com/user-attachments/assets/8014aa27-e57a-4732-9dd2-cd63767addaf" />
 
