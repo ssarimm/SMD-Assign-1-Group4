@@ -56,9 +56,16 @@ This app uses a mock REST API:
 
 ## 📸 Screenshots
 
-<img width="762" height="901" alt="image" src="https://github.com/user-attachments/assets/0cd9a869-c22c-4d2f-b25f-b881a648b2d9" />
+<img width="150" height="400" alt="image" src="https://github.com/user-attachments/assets/0cd9a869-c22c-4d2f-b25f-b881a648b2d9" />
 
-![App Screenshot](assets/screenshot1.png)
+<img width="150" height="400" alt="image" src="https://github.com/user-attachments/assets/8014aa27-e57a-4732-9dd2-cd63767addaf" />
+
+<img width="150" height="400" alt="image" src="https://github.com/user-attachments/assets/f045acb7-8fcd-45dd-97c1-afa14139b471" />
+
+<img width="475" height="811" alt="image" src="https://github.com/user-attachments/assets/b619ef81-fd84-4c73-b146-c3cdb6ad24d1" />
+
+
+
 
 ## 🎓 Learning Outcome
 
