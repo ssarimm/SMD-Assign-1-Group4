@@ -57,7 +57,7 @@ This app uses a mock REST API:
 ## 📸 Screenshots
 
 <p align="center">
-  <img width="300" height="600" alt="Todo List View" src="https://github.com/user-attachments/assets/0cd9a869-c22c-4d2f-b25f-b881a648b2d9" />
+  <img width="300" height="900" alt="Todo List View" src="https://github.com/user-attachments/assets/0cd9a869-c22c-4d2f-b25f-b881a648b2d9" />
   <img width="300" height="600" alt="Add Todo Screen" src="https://github.com/user-attachments/assets/8014aa27-e57a-4732-9dd2-cd63767addaf" />
 </p>
 
